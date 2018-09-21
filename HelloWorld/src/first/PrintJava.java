@@ -10,4 +10,5 @@ public class PrintJava {
 		System.out.println(name);
 		System.out.println(name2);
 	}
+	
 }
