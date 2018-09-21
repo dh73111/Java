@@ -14,8 +14,9 @@ public class Test {
 		num = sc.nextInt();
 		System.out.println(num);
 		
-		input.nextLine();
-		
+		sc.nextLine();
+		// 숫자를 받은 후 문자를 받으면 버퍼에 의해 제대로 작동 안됨
+		// 버퍼를 지워야함.
 		str = sc.next();
 		System.out.println(str);
 	}
