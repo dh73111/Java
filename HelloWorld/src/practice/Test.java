@@ -9,7 +9,7 @@ public class Test {
 		String str;
 		int num;
 		Scanner sc = new Scanner(System.in);
-		
+		// System.in 은 입력한 값을 바이트 단위로 읽는 것을 뜻함.
 		
 		num = sc.nextInt();
 		System.out.println(num);
@@ -19,6 +19,8 @@ public class Test {
 		// 버퍼를 지워야함.
 		str = sc.next();
 		System.out.println(str);
+		
+		sc.close(); // Scanner 를 끝내는 것이지만 안써도 무관
 	}
 
 }
