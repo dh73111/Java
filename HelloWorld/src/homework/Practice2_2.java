@@ -20,8 +20,8 @@ public class Practice2_2 {
 		else
 			System.out.println("정수 입력이 옳지 않습니다.");
 		System.out.println("===================");
-		System.out.println("| 학번 : 2015041057 |");
-		System.out.println("| 이름 :    김두회         |");
+		System.out.println(" 학번 : 2015041057   ");
+		System.out.println(" 이름 :   김두회           ");
 		System.out.println("===================");
 	}
 

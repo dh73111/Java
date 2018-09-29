@@ -14,8 +14,8 @@ public class Practice2_1 {
 		
 		System.out.println(num + "원은 $" + (float)num/1100 + "입니다.");
 		System.out.println("===================");
-		System.out.println("| 학번 : 2015041057 |");
-		System.out.println("| 이름 :    김두회         |");
+		System.out.println(" 학번 : 2015041057   ");
+		System.out.println(" 이름 :   김두회           ");
 		System.out.println("===================");
 	}
 

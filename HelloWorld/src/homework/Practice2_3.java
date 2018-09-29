@@ -20,8 +20,8 @@ public class Practice2_3 {
 	System.out.println("십원" + (money - 50*(money/50))/10 + "개");
 	System.out.println("일원" + (money -10*(money/10)) + "개");
 	System.out.println("===================");
-	System.out.println("| 학번 : 2015041057 |");
-	System.out.println("| 이름 :    김두회         |");
+	System.out.println(" 학번 : 2015041057   ");
+	System.out.println(" 이름 :   김두회           ");
 	System.out.println("===================");
 	}
 

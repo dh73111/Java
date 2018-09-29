@@ -18,10 +18,10 @@ public class Practice2_8 {
 	         System.out.println("("+x1+","+y1+")+과 +("+x2+","+y2+")는 사각형 안에 없습니다.");
 	       
 	     sc.close();
-	 	System.out.println("===================");
-		System.out.println("| 학번 : 2015041057 |");
-		System.out.println("| 이름 :    김두회         |");
-		System.out.println("===================");
+			System.out.println("===================");
+			System.out.println(" 학번 : 2015041057   ");
+			System.out.println(" 이름 :   김두회           ");
+			System.out.println("===================");
 	    }
 	public static boolean comp(int x1, int y1,int x2,int y2 ,int rectx1, int recty1, int rectx2, int recty2) {
 		if ((x1>=rectx1 && x1<= rectx2) &&  (x2>=rectx1 && x2<= rectx2) && (y1>=recty1 && y1<= recty2) && (y2>=recty1 && x1<= recty2))

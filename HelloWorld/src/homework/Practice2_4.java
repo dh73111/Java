@@ -25,8 +25,8 @@ public class Practice2_4 {
 				System.out.println("중앙 값은 " + num[i]);
 			}
 		System.out.println("===================");
-		System.out.println("| 학번 : 2015041057 |");
-		System.out.println("| 이름 :    김두회         |");
+		System.out.println(" 학번 : 2015041057   ");
+		System.out.println(" 이름 :   김두회           ");
 		System.out.println("===================");
 		
 	}

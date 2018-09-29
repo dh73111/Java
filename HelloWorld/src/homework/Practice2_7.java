@@ -19,11 +19,11 @@ public class Practice2_7 {
 				System.out.println("("+x+","+y+")는 사각형 안에 있습니다.");
 		
 		else 
-			System.out.println("(\"+x+\",\"+y+\")는 사각형 안에 있지 않습니다.");
+			System.out.println("("+x+","+y+")는 사각형 안에 있지 않습니다.");
 		
 		System.out.println("===================");
-		System.out.println("| 학번 : 2015041057 |");
-		System.out.println("| 이름 :    김두회         |");
+		System.out.println(" 학번 : 2015041057   ");
+		System.out.println(" 이름 :   김두회           ");
 		System.out.println("===================");
 	}
 }

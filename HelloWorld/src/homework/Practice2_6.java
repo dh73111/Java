@@ -8,7 +8,7 @@ public class Practice2_6 {
 		Scanner sc = new Scanner(System.in);
 		
 		int num;
-		System.out.println("1~99 사이의 정수를 입력하시오>>");
+		System.out.print("1~99 사이의 정수를 입력하시오>>");
 		num = sc.nextInt();
 		if(num>=1 && num<=99) {
 			if(num/10 ==3 || num/10 ==6 || num/10==9)
@@ -28,8 +28,8 @@ public class Practice2_6 {
 			System.out.println("정수입력이 옳지 않습니다.");
 		
 		System.out.println("===================");
-		System.out.println("| 학번 : 2015041057 |");
-		System.out.println("| 이름 :    김두회         |");
+		System.out.println(" 학번 : 2015041057   ");
+		System.out.println(" 이름 :   김두회           ");
 		System.out.println("===================");
 	}
 }
