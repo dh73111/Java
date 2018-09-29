@@ -6,5 +6,6 @@ public class haha {
 		// TODO Auto-generated method stub
 		
 		System.out.println("hahahahaha");
+		
 	}
 }
